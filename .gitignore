@@ -1,5 +1,6 @@
 .DS_Store
 Config.log
+ConnectionStatus.txt
 Events.ini
 GameVersion.txt
 UserData.lock
